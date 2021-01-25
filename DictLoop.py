@@ -8,6 +8,7 @@ def enumerateMethod():
         print (position, name)
         #show we can print in either order
         print (name, position)
+        #test
 
 def zipMethod():
     questions = ['a', 'b', 'c']
